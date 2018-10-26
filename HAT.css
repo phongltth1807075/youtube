@@ -1,0 +1,12 @@
+.tube-item {
+    float: left;
+    padding: 10px;
+    width: 28%;
+    height: 300px;
+    display: inline-block;
+    margin: 10px;
+}
+.tube-item iframe{
+    width: 100%;
+    height: 70%;
+}
